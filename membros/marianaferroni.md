@@ -10,7 +10,3 @@ Ensino fundamental completo, ensino médio técnico em andamento, 3 anos de curs
 
 Cidade: Batayporã
 Data de nascimento: 07/06/2006
-
-# Hobbies
-
-Ler, assistir filmes, sair, tomar tereré
